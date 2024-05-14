@@ -17,3 +17,8 @@ ul {
   background: green;
 }
 
+.drag {
+  background-color: bisque;
+  padding: 10px;
+  border: 1px solid black;
+}
